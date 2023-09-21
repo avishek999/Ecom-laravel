@@ -1,6 +1,6 @@
 # Laravel E-Commerce Project
 
-![Project Logo or Screenshot](link-to-image.png)
+![Project Logo or Screenshot](website.PNG)
 
 ## Description
 
